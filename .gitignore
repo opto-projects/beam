@@ -1,0 +1,14 @@
+.vscode
+.vs
+.venv
+.ipynb_checkpoints
+__pycache__
+libs/openblas*
+tmp
+out
+build
+bin
+*.exe
+calc/**/*.pgm
+CMakeLists.txt.user*
+CMakeLists.txt.autosave

@@ -1,0 +1,59 @@
+# OS Related:
+
+*~
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Qt Related:
+
+build-release/
+build-debug/
+*-build-*-Release/
+*-build-*-Debug/
+build-*/
+*.pro.user*
+Makefile*
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.log
+*.qch
+*.qm
+*.ts
+*.autosave
+*.moc
+.qmake.stash
+object_script.*
+
+# Python:
+
+.idea/
+*.pyc
+__pycache__/
+
+# Compilation Binaries:
+
+*.o
+*.ar
+*.gz
+*.bz2
+*.xz
+*.tar
+*.a
+*.so
+*.lib
+*.dll
+*.exe
+
+# Tool output:
+
+callgrind.out.*
+cachegrind.out.*
+
+# Amalgamated sources:
+
+/qcustomplot.h
+/qcustomplot.cpp
+
